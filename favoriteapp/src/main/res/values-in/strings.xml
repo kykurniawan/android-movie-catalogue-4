@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Favorit</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="tv_show_first_air_date">Tayang perdana:</string>
+    <string name="tv_show_name">Nama acara TV</string>
+    <string name="tv_show_poster">Poster acara TV</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_release_date">Tanggal rilis:</string>
+    <string name="progress_text">Mohon tunggu…</string>
+    <string name="no_data">Tidak ada data yang ditemukan!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_date">Tanggal Rilis: %1$s</string>
+    <string name="vote_count">Jumlah Voting: %1$d</string>
+    <string name="vote_average">Rata-rata voting: %1$d</string>
+    <string name="popularity">Kepopuleran: %1$d</string>
+    <string name="overview">Ringkasan</string>
+    <string name="add_to_favorite">Tambah ke favorite</string>
+    <string name="searching">Mencari…</string>
+    <string name="first_air_date">Tayang perdana: %1$s</string>
+    <string name="added_to_favorite">Ditambakan ke favorit</string>
+    <string name="delete_from_favorite">Hapus Dari Daftar Favorit</string>
+    <string name="deleted_from_favorite">%1$s Dihapus dari daftar favorit</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="failed_to_delete">Gagal menghapus!</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MovieCatalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="title_favorite">Kesukaan</string>
+    <string name="title_setting">Pengaturan</string>
+    <string name="internet_not_connected">Internet tidak terhubung!</string>
+    <string name="internet_not_connected_message">Applikasi ini menggunakan koneksi internet untuk mengambil data dari API. Hidupkan mobile data?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="error_text">Error Text</string>
+    <string name="movie_title">Judul film</string>
+    <string name="movie_release_date">Tanggal Rilis Film</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="progress_text">Mohon tunggu…</string>
+    <string name="no_data">Tidak ada data yang ditemukan</string>
+    <string name="no_data_message">Tidak ada yang ditampilkan</string>
+    <string name="network_error">Jaringan error</string>
+    <string name="no_internet_connection">Tidak ada koneksi internet, periksa sambungan internet anda!</string>
+    <string name="tv_show_poster">Poster Acara TV</string>
+    <string name="tv_show_name">Nama Acara TV</string>
+    <string name="search">Cari</string>
+    <string name="backdrop">Backdrop</string>
+
+    <string name="release_date">Tanggal rilis: %1$s</string>
+    <string name="vote_count">Hasil voting: %1$d</string>
+    <string name="vote_average">Rata rata voting: %1$d</string>
+    <string name="popularity">Kepopuleran: %1$d</string>
+    <string name="overview">Ringkasan</string>
+    <string name="add_to_favorite">Tambahkan ke favorit</string>
+    <string name="searching">Mencari…</string>
+    <string name="first_air_date">Tayang perdana: %1$s</string>
+    <string name="added_to_favorite">Ditambahkan ke favorit</string>
+    <string name="delete_from_favorite">Hapus dari favorit</string>
+    <string name="deleted_from_favorite">Dihapus dari favorit</string>
+    <string name="appwidget_text">Film favorit saya</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="language">Bahasa</string>
+    <string name="change">Ubah</string>
+    <string name="daily_remainder">Pengingat harian</string>
+    <string name="release_remainder">Pengingat rilis</string>
+    <string name="daily_remainder_content">Hai, jangan lupa kembali, cari film dan acara tv kesukaan anda disini!</string>
+    <string name="daily_remainder_enabled">Pengingat harian diaktifkan</string>
+    <string name="release_remainder_enabled">Pengingat rilis diaktifkan</string>
+    <string name="daily_remainder_disabled">Pengingat harian dinonaktifkan</string>
+    <string name="release_remainder_disabled">Pengingat rilis dinonaktifkan</string>
+    <string name="title_release_today">Rilis hari ini</string>
+</resources>

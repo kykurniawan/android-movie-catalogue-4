@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite App</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="tv_show_first_air_date">First air date:</string>
+    <string name="tv_show_name">TV Show name</string>
+    <string name="tv_show_poster">TV Show poster</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="movie_title">Movie title</string>
+    <string name="movie_release_date">Release date:</string>
+    <string name="progress_text">Please wait…</string>
+    <string name="no_data">No Data Found!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_date">Release Date: %1$s</string>
+    <string name="vote_count">Vote Count: %1$d</string>
+    <string name="vote_average">Vote Average: %1$d</string>
+    <string name="popularity">Popularity: %1$d</string>
+    <string name="overview">Overview</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="searching">Searching…</string>
+    <string name="first_air_date">First Air Date: %1$s</string>
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="delete_from_favorite">Delete From Favorite</string>
+    <string name="deleted_from_favorite">%1$s Deleted from favorite</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="failed_to_delete">Delete failded!</string>
+</resources>
